@@ -699,11 +699,13 @@ header .header-content {
 .section-10 .content .fa-angle-left {
     font-size: 50px;
     margin-right: 42px;
+    margin-left: 30px;
 } 
 
 .section-10 .content .fa-angle-right {
     font-size: 50px;
     margin-left: 42px;
+    margin-right: 30px;
 } 
 
 .section-10 .content .img {
